@@ -9,3 +9,5 @@
 - Application Layer: Manages the business logic and interacts with the domain and data access layers.
 - Domain Layer: Defines business entities and rules.
 - Infrastructure Layer (Data Access): Implements the data persistence using Dapper.
+
+# This project Develop asp.net core .NET8 and SQL server with Dapper ORM. if you want test this project you must ensure visual studio 2022 and .NET8
